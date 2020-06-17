@@ -1,6 +1,7 @@
-# Introduction to Python at SciPy 2019
+# Introduction to Python at SciPy 2020
 
-Monday, July 8 at 8:00 AM
+Monday, July 6 from 9:00 AM - 1:00 PM CDT
+(With tutorial setup help from 8:00 AM - 9:00 AM CDT.)
 
 This tutorial is a gentle introduction to Python for folks who are completely
 new to it and may not have much experience programming.
@@ -15,7 +16,7 @@ vocabulary of Python so that you can understand Python documentation and
 interpret code written by others.
 
 See the tutorial description on the conference website
-[here](https://www.scipy2019.scipy.org/tutorial/Introduction-to-Python-and-Programming).
+[here](https://www.scipy2020.scipy.org/tutorial-information).
 
 ## Setup Instructions
 
@@ -24,7 +25,7 @@ See the tutorial description on the conference website
 
 If you don't already have Anaconda installed, download and install Anaconda
 for **Python 3** (_not Python 2_):
-https://www.anaconda.com/distribution/.
+https://www.anaconda.com/products/individual.
 
 If you're prompted to install [VS Code](https://code.visualstudio.com/)
 we recommend you **do** install it unless you already have a code editor
@@ -37,6 +38,16 @@ After installing Anaconda you can test your installation using
 If you'd like to do your own setup, we'll be using the following Python libraries:
 
 - [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/)
+
+### Backup Option: Binder
+
+If you're not able to get Anaconda installed/working you can
+still follow along in class by going to this URL and launching the notebooks:
+https://mybinder.org/v2/gh/jiffyclub/scipy-2020-intro-to-python/main.
+However, note that Binder will not persist your work and will "forget" about
+it after a period of idleness.
+Make sure to download your work as soon as you finish a lesson so you can
+keep a record.
 
 ## Useful Links and References
 
