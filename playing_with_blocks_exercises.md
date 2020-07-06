@@ -31,7 +31,7 @@ in the fourth *column* of your grid.
 
 Augment your code from Exercise 6 with an `elif` and an `else` to change the
 color of all blocks in your grid. But make the second column red, the
-third column green, and every other block gold.
+third column green, and all the other blocks gold.
 
 ## Exercise 8
 
